@@ -1,4 +1,3 @@
-# analyst_ecommerce_data_with_power_BI
 # Analyst Ecommerce Data with Power BI
 
 ![Power BI Logo](https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png)
